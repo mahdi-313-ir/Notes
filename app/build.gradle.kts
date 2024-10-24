@@ -8,6 +8,7 @@ plugins {
 }
 
 android {
+
     namespace = "com.sina.notesmvi"
     compileSdk = 34
 
