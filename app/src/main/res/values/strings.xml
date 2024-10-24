@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="save">Save Note</string>
+    <string name="title">Title</string>
+    <string name="data">Data</string>
+    <string name="saved">Saved!</string>
+    <string name="modifiedTime">Modify Time:</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="sureToDelete">Are You Sure To Delete?</string>
+    <string name="search">Search...</string>
+    <string name="body">Body</string>
+    <string name="shareVia">Share via</string>
+</resources>
